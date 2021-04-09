@@ -31,6 +31,7 @@ import io.github.pgerhard.views.addressform.AddressFormView;
 import io.github.pgerhard.views.creditcardform.CreditCardFormView;
 import io.github.pgerhard.views.map.MapView;
 import io.github.pgerhard.views.about.AboutView;
+import io.github.pgerhard.views.popup.PopupRoute;
 
 /**
  * The main view is a top-level placeholder for other views.
@@ -94,6 +95,7 @@ public class MainView extends AppLayout {
                 createTab("Master-Detail", MasterDetailView.class), createTab("Person Form", PersonFormView.class),
                 createTab("Address Form", AddressFormView.class),
                 createTab("Credit Card Form", CreditCardFormView.class), createTab("Map", MapView.class),
+                createTab("Popup", PopupRoute.class),
                 createTab("About", AboutView.class)};
     }
 

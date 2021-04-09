@@ -46,7 +46,12 @@
       "@vaadin/vaadin-tabs": "3.2.0",
       "@vaadin/vaadin-lumo-styles": "1.6.0",
       "@vaadin/vaadin-material-styles": "1.3.2",
-      "@vaadin/vaadin-rich-text-editor": "1.3.0"
+      "@vaadin/vaadin-rich-text-editor": "1.3.0",
+      "cdigit": "2.5.6",
+      "@vaadin-component-factory/vcf-popup": "1.2.4",
+      "chance": "1.1.7",
+      "@vaadin/vaadin-avatar": "1.0.0",
+      "open": "^7.2.1"
     },
     "devDependencies": {
       "webpack-babel-multi-target-plugin": "2.3.3",
@@ -59,7 +64,7 @@
       "webpack-merge": "4.2.2",
       "webpack-dev-server": "3.11.0"
     },
-    "hash": "81077bf7aa0e1c9065dd7e9ca4953a7e706e0df572c3312c0a71a8a737a7af44"
+    "hash": "5ab910a1d95180efb2cca9daff86fd5643f642fb95b61b26ad2247dcdeda805b"
   },
   "dependencies": {
     "lit-element": "^2.2.1",
@@ -107,7 +112,12 @@
     "@vaadin/vaadin-material-styles": "1.3.2",
     "@vaadin/vaadin-rich-text-editor": "1.3.0",
     "leaflet": "^1.7.1",
-    "@types/leaflet": "^1.5.23"
+    "@types/leaflet": "^1.5.23",
+    "cdigit": "2.5.6",
+    "@vaadin-component-factory/vcf-popup": "1.2.4",
+    "chance": "1.1.7",
+    "@vaadin/vaadin-avatar": "1.0.0",
+    "open": "^7.2.1"
   },
   "devDependencies": {
     "webpack-babel-multi-target-plugin": "2.3.3",
